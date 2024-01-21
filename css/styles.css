@@ -615,7 +615,9 @@ margin-bottom: 4px;
     letter-spacing: 0.48px;
     display: flex;
   }
- 
+  .check-text span {
+    display: inline-flex; 
+  }
   .false-check{
     display: inline-flex; 
     width: 16px;
