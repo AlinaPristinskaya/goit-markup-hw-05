@@ -595,7 +595,9 @@ margin-bottom: 4px;
  .modal-field-check{
   margin-bottom: 24px; 
  }
-
+.modal-field-comment{
+  margin-bottom: 16px;
+}
   .modal-icon {
     fill: #2E2F42;
     position: absolute;
