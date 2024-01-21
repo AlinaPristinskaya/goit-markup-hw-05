@@ -590,7 +590,10 @@ letter-spacing: 0.48px;
     color: #4D5AE5;
     text-decoration: underline;
   }
-  check-icon{
-    fill: red;
-    stroke:turquoise
-  }
+
+.close-btn:active{
+  background-color: #404BBF;
+}
+.close-btn:active .close{
+  fill: #fff;
+}
